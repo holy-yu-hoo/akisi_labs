@@ -1,3 +1,4 @@
+# Алгоритм сжатия хаффмана
 ### use 
 for encode
 	
@@ -6,3 +7,5 @@ for encode
 for decode
 
 	python haffman.py decode <source filename> <destination filename> 
+
+Агеев Юрий 932423
