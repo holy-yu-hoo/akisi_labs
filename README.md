@@ -1,7 +1,21 @@
-# Алгоритм сжатия хаффмана
-### use 
+# Алгоритм арифметического сжатия
+
+### use
+
 for encode
-	
+
+	python arithmetic.py encode <source filename> <destination filename> 
+
+for decode
+
+	python arithmetic.py decode <source filename> <destination filename>
+
+# Алгоритм сжатия хаффмана
+
+### use
+
+for encode
+
 	python haffman.py encode <source filename> <destination filename> 
 
 for decode
